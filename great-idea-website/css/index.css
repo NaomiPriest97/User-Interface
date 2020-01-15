@@ -65,4 +65,34 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+/* Heading section */
 
+.links{
+	width: 70%;
+	display:inline-block;
+	margin-left: 2%;
+	word-spacing:60px;
+	color:gray;
+	margin:10px;
+
+}
+
+.logo{
+	display: inline-block;
+	width:15%;
+}
+
+.heading{
+	border:5px white;
+	box-sizing:border-box;
+}
+
+/* Innovation section */
+.started{
+	display:inline-block;
+}
+
+h1{
+	width: 250px;
+	font-size: 100px;
+}
