@@ -88,11 +88,19 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Innovation section */
-.started{
+.two{
 	display:inline-block;
+	margin: 0 2%;
+	border:solid 1px red;
+	width:100%;
+	text-align:center;
 }
 
 h1{
-	width: 250px;
-	font-size: 100px;
+	width: 55%;
+	font-size: 85px;
+	text-align:center;
+	display:inline-block;
+	
+
 }
